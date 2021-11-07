@@ -1,9 +1,10 @@
 # ConsoleMatrixPython
+
 a simple program that prints green 0s and 1s to the console
 
 This is a python script that randomly either prints out a 0 or a 1 to the console. Colors are being made possible with ANSI color codes.
 
-USAGE:
+**USAGE:**
 - clone the repo
 - change into the newly acquired directory
 - run the matrix.py file with python3 because of the f string inside the script (only available in python3)
